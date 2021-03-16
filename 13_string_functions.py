@@ -1,0 +1,10 @@
+story = "once upon a time.there was a man of knowledge and integrety"
+print (len(story))
+print(story.endswith("rety"))
+print(str.capitalize('once'))
+print(story.capitalize())
+print(story.count('a'))
+print(story.replace('man','woman'))
+print(story.startswith('upon'))
+print(story.index('time'))
+print(story.find('was'))
